@@ -129,11 +129,32 @@
 
 }
 
+.home-btn {
+
+  position: absolute; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  top: 400px;
+
+}
+
 @media screen and (max-width: 767px) {
 
   .title span {
 
     margin-top: 0;
+
+  }
+
+  .imagem-calculadora {
+
+    top: 0;
+
+  }
+
+  .home-btn {
+
+    top: 200px;
 
   }
 
