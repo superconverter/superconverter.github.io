@@ -2,7 +2,7 @@ $( document ).ready( function() {
 
 	$('#home-btn').click( function() {
 
-		location.assign('https://superconverter.github.io/view/app.html');
+		location.assign('http://127.0.0.1:3000/view/app.html');
 
 	});
 

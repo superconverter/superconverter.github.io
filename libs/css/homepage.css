@@ -48,6 +48,7 @@
   font-size: 40px;
   font-family: Oswald;
   text-align: center;
+  font-weight: 800
 
 }
 
@@ -56,6 +57,7 @@
   display: inline-block;
   cursor: pointer;
   margin-top: 200px;
+  
 
 }
 
@@ -131,9 +133,9 @@
 
 .home-btn {
 
-  position: absolute; 
-  left: 50%; 
-  transform: translateX(-50%); 
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   top: 400px;
 
 }
